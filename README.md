@@ -1,1 +1,2 @@
 # Titanic-Dataset-Analysis-PowerBI
+This Power BI visualisation report utilises the infamous RMS Titanic sinking dataset for exploratory data analysis (EDA). This analysis aims to investigate the variables that affected the Titanic passengers' survival rates. This report aims to gain insights and develop a predictive model to determine the characteristics of those more likely to escape the tragedy by examining variables such as passenger class, age, Gender, socioeconomic level, and more.
